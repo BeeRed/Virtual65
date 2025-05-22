@@ -1,5 +1,5 @@
 
-CFLAGS = -O3 -Wall -pedantic
+CFLAGS = -O3 -Wall -pedantic -g
 
 all: v65 bootstrap
 
